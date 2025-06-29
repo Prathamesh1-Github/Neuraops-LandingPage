@@ -148,7 +148,7 @@ export function Services() {
           className="text-center"
         >
           <Button size="lg" className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white font-light text-lg px-8 py-4 hover:shadow-lg hover:shadow-blue-500/25 hover:scale-105 transition-all duration-300">
-            Revolutionize Your Manufacturing with AI
+            Revolutionize Manufacturing with AI
             <ArrowRight className="ml-2 w-5 h-5" />
           </Button>
         </motion.div>
